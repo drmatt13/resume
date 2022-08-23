@@ -2,8 +2,6 @@ import Link from "next/link";
 import Image from "next/image";
 
 import Title from "../components/title";
-import Skills from "../components/skills2";
-import Timeline from "../components/timeline";
 
 export default function Home() {
   return (
@@ -47,16 +45,16 @@ export default function Home() {
                 <div className="mb-12">
                   Hello, my name is Matthew Sweeney, and in December 2022, I
                   will receive my Bachelor of Science in Data Analytics from
-                  SNHU. I'm confident in my ability to bring complex ideas to
-                  life elegantly while adhering to general design principles. In
-                  addition, I possess many in-demand skills that can help
+                  SNHU. I&apos;m confident in my ability to bring complex ideas
+                  to life elegantly while adhering to general design principles.
+                  In addition, I possess many in-demand skills that can help
                   businesses leverage information to make intelligent,
                   data-driven decisions, and operate more efficiently.
                 </div>
                 <div className="">
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-graduation-cap" />{" "}
-                    SNHU - Data Analytics, Bachelor's Degree{" "}
+                    SNHU - Data Analytics, Bachelor&apos;s Degree{" "}
                     <span className="text-black/60 text-4xl">2020-2022</span>
                   </div>
                   <div className="mb-12">
@@ -235,7 +233,7 @@ export default function Home() {
                   Algorithms & Data Structures Design
                 </a>
                 <a href="https://www.udemy.com/course/nodejs-api-masterclass/">
-                  Node.js API's w/ Express & MongoDB
+                  Node.js API&apos;s w/ Express & MongoDB
                 </a>
                 <a href="https://www.udemy.com/course/modern-react-front-to-back/">
                   React Front To Back 2020

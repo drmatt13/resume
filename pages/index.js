@@ -47,9 +47,9 @@ export default function Home() {
                   Bachelor of Science in Data Analytics from SNHU. Confident in
                   elegantly bringing complex ideas to life while adhering to
                   general design principles. Furthermore, I possess many
-                  in-demand skills to help businesses leverage information to
-                  make intelligent, strategically data-driven decisions and
-                  ultimately operate confidently.
+                  in-demand skills that could help many businesses leverage
+                  information strategically to make intelligent, data-driven
+                  decisions and ultimately operate in confidence.
                 </div>
                 <div className="">
                   <div className="mb-12">
@@ -58,12 +58,12 @@ export default function Home() {
                     <span className="text-black/60 text-4xl">2020-2022</span>
                   </div>
                   <div className="mb-12">
-                    At Southern New Hampshire University, I learned extensively
+                    At Southern New Hampshire University, I extensively learned
                     about the practical use cases of data analytics and data
                     governance concerning ethical, governmental, and corporate
-                    policy. Subsequently, I also learned how to build various
+                    policy. Subsequently, I also learned how to create various
                     statistical models while conducting regression diagnostics
-                    techniques to verify statistical model accuracy.
+                    to validate statistical model accuracy.
                   </div>
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-code" />{" "}
@@ -71,13 +71,13 @@ export default function Home() {
                     <span className="text-black/60 text-4xl">2019-2022</span>
                   </div>
                   <div className="mb-12">
-                    Highly proficient with the React.js framework and have
-                    expertise in developing mobile-first screen responsive user
-                    interfaces. In addition, I possess a deep underlying
-                    understanding of vanilla JavaScript, data structure design,
-                    and algorithm implementation. I utilize TypeScript with
-                    Next.js and specialize in creating user-authenticated
-                    full-stack applications with dynamically generated content.
+                    Highly skilled with the React.js framework, with expertise
+                    in developing mobile-first screen responsive user interfaces
+                    along with a deep understanding of vanilla JavaScript, data
+                    structure design, and algorithm implementation. In addition,
+                    I specialize in using TypeScript, Next.js, and Tailwind to
+                    create user-authenticated full-stack applications with
+                    dynamically served content.
                   </div>
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-briefcase" />{" "}

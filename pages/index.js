@@ -43,13 +43,13 @@ export default function Home() {
               <Title>About Me</Title>
               <div className="flex flex-col" style={{ lineHeight: "4rem" }}>
                 <div className="mb-12">
-                  Hello, my name is Matthew Sweeney, and in December 2022, I
-                  will receive my Bachelor of Science in Data Analytics from
-                  SNHU. I&apos;m confident in my ability to bring complex ideas
-                  to life elegantly while adhering to general design principles.
-                  In addition, I possess many in-demand skills that can help
-                  businesses leverage information to make intelligent,
-                  data-driven decisions, and operate more efficiently.
+                  Full Stack Engineer graduating in December of 2022 with a
+                  Bachelor of Science in Data Analytics from SNHU. Confident in
+                  bringing complex ideas to life elegantly while adhering to
+                  general design principles. Furthermore, I possess many
+                  in-demand skills to help businesses leverage information to
+                  make intelligent, data-driven decisions and operate more
+                  efficiently.
                 </div>
                 <div className="">
                   <div className="mb-12">
@@ -58,9 +58,10 @@ export default function Home() {
                     <span className="text-black/60 text-4xl">2020-2022</span>
                   </div>
                   <div className="mb-12">
-                    At Southern New Hampshire University, I extensively learned
-                    about data governance with respect to regulatory and
-                    organizational policy. I also learned how to build various
+                    At Southern New Hampshire University, I learned extensively
+                    about the practical use cases of data analytics and data
+                    governance concerning ethical, governmental, and corporate
+                    policy. Subsequently, I also learned how to build various
                     statistical models while conducting regression diagnostics
                     to validate models utilized for statistical analysis.
                   </div>
@@ -73,10 +74,10 @@ export default function Home() {
                     Highly proficient with the React.js framework and have
                     expertise in developing mobile-first screen responsive user
                     interfaces. In addition, I possess a deep underlying
-                    understanding of vanilla JavaScript, algorithm design, and
-                    data structure implementation. I utilize TypeScript with
+                    understanding of vanilla JavaScript, data structure design,
+                    and algorithm implementation. I utilize TypeScript with
                     Next.js and specialize in creating user-authenticated
-                    full-stack applications with dynamic functionality.
+                    full-stack applications with dynamically generated content.
                   </div>
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-briefcase" />{" "}
@@ -85,9 +86,8 @@ export default function Home() {
                   </div>
                   <div className="mb-12">
                     Responsible for training, directing, and supervising the
-                    activities of Line Service Technicians that were engaged in
-                    providing various services to general aviation aircraft,
-                    crew and passengers.
+                    activities of Line Service Technicians who provided various
+                    services to general aviation aircraft, crew, and passengers.
                   </div>
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-graduation-cap" />{" "}
@@ -95,11 +95,11 @@ export default function Home() {
                     <span className="text-black/60 text-4xl">2016-2018</span>
                   </div>
                   <div className="mb-8">
-                    I spent 2 years at UMass Boston where I broadly studied
-                    math, programming, data structures, and software
-                    engineering. At UMass Boston I learned the fundamentals of
-                    computer science and high level math which provided me with
-                    a strong foundation for my current pathway.
+                    At UMass Boston, I spent two years broadly studying
+                    programming and mathematics. I learned computer science
+                    fundamentals, data structures, algorithms, and high-level
+                    arithmetic up to engineering mathematics, which gave me the
+                    strong foundation required for my pivoted career pathway.
                   </div>
                 </div>
               </div>

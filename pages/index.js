@@ -45,11 +45,11 @@ export default function Home() {
                 <div className="mb-12">
                   Full Stack Engineer graduating in December of 2022 with a
                   Bachelor of Science in Data Analytics from SNHU. Confident in
-                  bringing complex ideas to life elegantly while adhering to
+                  elegantly bringing complex ideas to life while adhering to
                   general design principles. Furthermore, I possess many
                   in-demand skills to help businesses leverage information to
-                  make intelligent, data-driven decisions and operate more
-                  efficiently.
+                  make intelligent, strategically data-driven decisions and
+                  ultimately operate confidently.
                 </div>
                 <div className="">
                   <div className="mb-12">
@@ -63,7 +63,7 @@ export default function Home() {
                     governance concerning ethical, governmental, and corporate
                     policy. Subsequently, I also learned how to build various
                     statistical models while conducting regression diagnostics
-                    to validate models utilized for statistical analysis.
+                    techniques to verify statistical model accuracy.
                   </div>
                   <div className="mb-12">
                     <span className="text-red-600 w-16 text-center fa-solid fa-code" />{" "}
